@@ -7,20 +7,6 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 Visit: https://mikeyy2.github.io/michaelproeschel/
 
-📂 Project Structure
-
- michaelproeschel/
- │── index.html            # Main HTML file
- │── style.css             # Stylesheet
- │── script.js             # JavaScript file
- │── images/               # Folder for images
- │   ├── profile.jpg
- │   ├── project1.png
- │   ├── project2.png
- │── documents/            # Folder for PDFs and other documents
- │   ├── Michael_Proeschel_S25.pdf
- │── README.md             # Project documentation
-
 📸 Features
 
 🖼️ Images: Profile picture and project previews.
