@@ -1,2 +1,2 @@
-# micahelproeschel
+# michaelproeschel
 Personal Portfolio
